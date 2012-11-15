@@ -3,7 +3,7 @@
   "description": "Ngram for Meteor - Tokenzation and language geussing port from https://github.com/athoune/node-ngram",
   "homepage": "https://github.com/yubozhao/Meteor.ngram",
   "author": "Bozhao Yu <yubozhao@icloud.com> (http://about.me/yubozhao)",
-  "version": "0.1",
+  "version": "0.0.1",
   "git": "https://github.com/yubozhao/Meteor.ngram.git",
   "packages": {}
 }
